@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[lhaze]]></title>
+  <link href="http://lhaze.github.io/atom.xml" rel="self"/>
+  <link href="http://lhaze.github.io/"/>
+  <updated>2014-03-01T19:59:19+01:00</updated>
+  <id>http://lhaze.github.io/</id>
+  <author>
+    <name><![CDATA[Łukasz Haze]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post]]></title>
+    <link href="http://lhaze.github.io/blog/2014/03/01/test-post/"/>
+    <updated>2014-03-01T19:58:16+01:00</updated>
+    <id>http://lhaze.github.io/blog/2014/03/01/test-post</id>
+    <content type="html"><![CDATA[<h2>We have to do sth!!</h2>
+
+<p>What? When? Why?</p>
+]]></content>
+  </entry>
+  
+</feed>
